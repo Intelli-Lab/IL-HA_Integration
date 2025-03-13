@@ -1,0 +1,8 @@
+{
+  "domain": "heating_control",
+  "name": "Heating Control",
+  "documentation": "https://github.com/yourusername/heating_control",
+  "version": "1.0.0",
+  "requirements": [],
+  "codeowners": ["@yourusername"]
+}
